@@ -1,0 +1,32 @@
+
+body{
+    background-color: black;
+    color:white;
+    font-size: small;
+    }
+
+.footer{
+    width: 600px;
+    height: 100px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-size: x-small;
+    color:black;
+}
+
+#Iconos{
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+    gap: 20px;
+    background-color: rgb(43, 43, 43);
+    margin-top: 0px;
+    height: 1300px;
+    width: 600px;
+    text-align: start;
+}
+        
+
+
